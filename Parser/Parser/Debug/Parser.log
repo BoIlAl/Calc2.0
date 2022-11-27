@@ -1,5 +1,0 @@
-﻿  pch.cpp
-  Parser.cpp
-c:\users\user\source\repos\calc2.0\parser\parser\parser.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\user\source\repos\calc2.0\parser\parser\parser.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
-  Parser.vcxproj -> C:\Users\user\source\repos\Calc2.0\Parser\Debug\Parser.lib
